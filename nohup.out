@@ -1,0 +1,5 @@
+
+> myasador@1.0.0 start
+> node server.js
+
+✅ Asador server is running at http://0.0.0.0:3000
