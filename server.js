@@ -1,4 +1,4 @@
-// server.js
+nano public/index.html// server.js
 const express = require("express");
 const app = express();
 
